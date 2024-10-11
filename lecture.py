@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 11 00:32:18 2024
 
-@author: a055251
+@author: evanzigui
 """
 
 
