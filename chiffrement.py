@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 11 00:49:17 2024
 
-@author: a055251
+@author: evanzigui
 """
 
 from collections import Counter
